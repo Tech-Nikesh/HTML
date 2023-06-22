@@ -4,5 +4,5 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 > Basic Web Structure
 - <!DOCTYPE html>
 - <html>
-- <head>
-- <body>
+-<head>
+- body

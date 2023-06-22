@@ -5,4 +5,4 @@ The HyperText Markup Language or HTML is the standard markup language for docume
 - !DOCTYPE html
 - html
 - head
-- body
+> <body>
